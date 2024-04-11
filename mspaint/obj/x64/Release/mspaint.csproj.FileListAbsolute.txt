@@ -1,0 +1,5 @@
+C:\Users\death\Downloads\CS2-TRUSTED-INJECTOR-main\CS2-TRUSTED-INJECTOR-main\mspaint-cs\mspaint\bin\x64\Release\mspaint.exe.config
+C:\Users\death\Downloads\CS2-TRUSTED-INJECTOR-main\CS2-TRUSTED-INJECTOR-main\mspaint-cs\mspaint\bin\x64\Release\mspaint.exe
+C:\Users\death\Downloads\CS2-TRUSTED-INJECTOR-main\CS2-TRUSTED-INJECTOR-main\mspaint-cs\mspaint\obj\x64\Release\mspaint.csproj.AssemblyReference.cache
+C:\Users\death\Downloads\CS2-TRUSTED-INJECTOR-main\CS2-TRUSTED-INJECTOR-main\mspaint-cs\mspaint\obj\x64\Release\mspaint.csproj.CoreCompileInputs.cache
+C:\Users\death\Downloads\CS2-TRUSTED-INJECTOR-main\CS2-TRUSTED-INJECTOR-main\mspaint-cs\mspaint\obj\x64\Release\mspaint.exe
