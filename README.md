@@ -14,3 +14,6 @@ A fast and user-friendly CS2 DLL Injector with VAC Bypass, developed in C#.<br>I
 | File | MD5 |
 | --- | --- |
 | mspaint.exe | 57b9b33f21f13a33dbe6cc82e853bc32 |
+
+<b>Special thanks to:</b>
+- https://github.com/danielkrupinski/cs2-anticheat
